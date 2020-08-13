@@ -1,4 +1,5 @@
 <form action="" method="POST" role="form">
+    <legend>فرم ثبت دانش آموز :</legend>
     <div class="container" style="margin-right: 15%;">
 
         <div class="row" dir="rtl">

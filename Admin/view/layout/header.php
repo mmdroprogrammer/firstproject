@@ -17,7 +17,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="../public/Admin/dist/css/adminlte.min.css">
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
-
+  <script src="https://use.fontawesome.com/7090b7d74c.js"></script>
   <!-- bootstrap rtl -->
   <link rel="stylesheet" href="../public/Admin/dist/css/bootstrap-rtl.min.css">
   <!-- template rtl version -->
@@ -183,11 +183,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </p>
               </a>
             </li>
-            <li class="nav-item has-treeview menu-open">
+            <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
-                <i class="nav-icon fa fa-dashboard"></i>
+                
+                <i class="fa fa-graduation-cap" aria-hidden="true"></i>
                 <p>
                   دانش آموزان
+                  
                   <i class="right fa fa-angle-left"></i>
                 </p>
               </a>
@@ -195,7 +197,19 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Addstudent" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>افزودن دانش آموز</p>
+                    <p>ثبت نام</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="index.php?c=student&a=Liststudent" class="nav-link">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>برنامه ریزی</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="index.php?c=student&a=Liststudent" class="nav-link">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>گزارش گیری</p>
                   </a>
                 </li>
                 <li class="nav-item">
@@ -207,11 +221,11 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </ul>
             </li>
 
-            <li class="nav-item has-treeview menu-open">
+            <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
-                <i class="nav-icon fa fa-dashboard"></i>
+              <i class="fa fa-book" aria-hidden="true"></i>
                 <p>
-                  دروس
+                  آموزش
                   <i class="right fa fa-angle-left"></i>
                 </p>
               </a>
@@ -219,10 +233,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Addstudent" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>افزودن درس</p>
+                    <p>لیست کتب درسی</p>
                   </a>
                 </li>
-                
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Liststudent" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
@@ -232,13 +245,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Liststudent" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست دروس</p>
+                    <p>لیست کتب کمک آموزشی</p>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Liststudent" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست کتب کمک آموزشی</p>
+                    <p>گنجینه تست</p>
                   </a>
                 </li>
               </ul>
