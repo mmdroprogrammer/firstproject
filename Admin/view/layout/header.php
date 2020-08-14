@@ -201,7 +201,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Liststudent" class="nav-link">
+                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>برنامه ریزی</p>
                   </a>
