@@ -9,7 +9,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>پنل مدیریت | شروع سریع</title>
+  <title>پنل مدیریت | مدیر</title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="../public/Admin/plugins/font-awesome/css/font-awesome.min.css">
@@ -166,7 +166,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <img src="https://www.gravatar.com/avatar/52f0fbcbedee04a121cba8dad1174462?s=200&d=mm&r=g" class="img-circle elevation-2" alt="User Image">
           </div>
           <div class="info">
-            <a href="#" class="d-block">محمد روح الله نژاد</a>
+            <a href="#" class="d-block">مدیر</a>
           </div>
         </div>
 

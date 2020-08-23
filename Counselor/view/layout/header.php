@@ -166,7 +166,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <img src="https://www.gravatar.com/avatar/52f0fbcbedee04a121cba8dad1174462?s=200&d=mm&r=g" class="img-circle elevation-2" alt="User Image">
           </div>
           <div class="info">
-            <a href="#" class="d-block">احمد تیرگر</a>
+            <a href="#" class="d-block">مشاور</a>
           </div>
         </div>
 
@@ -257,6 +257,31 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </ul>
             </li>
             
+            <li class="nav-item has-treeview ">
+              <a href="#" class="nav-link ">
+                
+                <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                <p>
+                  ثبت کاربر
+                  
+                  <i class="right fa fa-angle-left"></i>
+                </p>
+              </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="#" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>ثبت دانش آموز جدید</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>ثبت مشاور ( زیرمجموعه )</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
 
             <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
@@ -270,19 +295,19 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Addstudent" class="nav-link ">
+                  <a href="#" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>ویرایش اطلاعات تماس</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
+                  <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>ویرایش مدارک ارسالی</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
+                  <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>تغییر نام کاربری و رمز عبور</p>
                   </a>

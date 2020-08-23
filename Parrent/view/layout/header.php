@@ -9,7 +9,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>پنل مدیریت | شروع سریع</title>
+  <title>پنل مدیریت | والدین </title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="../public/Admin/plugins/font-awesome/css/font-awesome.min.css">
@@ -154,7 +154,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <a href="index3.html" class="brand-link">
       <img src="../public/Admin/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
-      <span class="brand-text font-weight-light">پنل مدیریت</span>
+      <span class="brand-text font-weight-light">پنل والدین</span>
     </a>
 
     <!-- Sidebar -->
@@ -195,13 +195,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Addstudent" class="nav-link ">
+                  <a href="#" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>گزارش تحصیلی</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
+                  <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>گزارش برنامه</p>
                   </a>
@@ -245,13 +245,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Addstudent" class="nav-link ">
+                  <a href="#" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>ویرایش اطلاعات تماس</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
+                  <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>تغییر نام کاربری و رمز عبور</p>
                   </a>
