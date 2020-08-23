@@ -188,7 +188,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 
                 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
                 <p>
-                  دانش آموزان
+                  برنامه ریزی
                   
                   <i class="right fa fa-angle-left"></i>
                 </p>
@@ -197,35 +197,30 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Addstudent" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>ثبت نام</p>
+                    <p>دریافت برنامه</p>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>برنامه ریزی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>گزارش گیری</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="index.php?c=student&a=Liststudent" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست دانش آموزان</p>
+                    <p>ثبت فعالیت</p>
                   </a>
                 </li>
               </ul>
             </li>
-
+            <li class="nav-item">
+              <a href="index.php" class="nav-link">
+                <i class="nav-icon fa fa-th"></i>
+                <p>
+                  ثبت کلاس های متفرقه
+                </p>
+              </a>
+            </li>
             <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
               <i class="fa fa-book" aria-hidden="true"></i>
                 <p>
-                  آموزش
+                  ارتباط
                   <i class="right fa fa-angle-left"></i>
                 </p>
               </a>
@@ -233,30 +228,11 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="#" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست کتب درسی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>افزودن کتب کمک آموزشی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست کتب کمک آموزشی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>گنجینه تست</p>
+                    <p>ارتباط با مشاور</p>
                   </a>
                 </li>
               </ul>
             </li>
-            
 
             <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
@@ -278,7 +254,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>ویرایش مدارک ارسالی</p>
+                    <p>ویرایش اطلاعات درسی</p>
                   </a>
                 </li>
                 <li class="nav-item">
@@ -289,7 +265,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </li>
               </ul>
             </li>
-
+            
           </ul>
         </nav>
         <!-- /.sidebar-menu -->

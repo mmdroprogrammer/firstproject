@@ -166,7 +166,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <img src="https://www.gravatar.com/avatar/52f0fbcbedee04a121cba8dad1174462?s=200&d=mm&r=g" class="img-circle elevation-2" alt="User Image">
           </div>
           <div class="info">
-            <a href="#" class="d-block">محمد روح الله نژاد</a>
+            <a href="#" class="d-block">والدین</a>
           </div>
         </div>
 
@@ -188,7 +188,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 
                 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
                 <p>
-                  دانش آموزان
+                  گزارش
                   
                   <i class="right fa fa-angle-left"></i>
                 </p>
@@ -197,25 +197,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=student&a=Addstudent" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>ثبت نام</p>
+                    <p>گزارش تحصیلی</p>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>برنامه ریزی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>گزارش گیری</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="index.php?c=student&a=Liststudent" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست دانش آموزان</p>
+                    <p>گزارش برنامه</p>
                   </a>
                 </li>
               </ul>
@@ -225,7 +213,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
               <a href="#" class="nav-link ">
               <i class="fa fa-book" aria-hidden="true"></i>
                 <p>
-                  آموزش
+                  ارتباط
                   <i class="right fa fa-angle-left"></i>
                 </p>
               </a>
@@ -233,30 +221,17 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="#" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست کتب درسی</p>
+                    <p>ارتباط با مشاور</p>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>افزودن کتب کمک آموزشی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>لیست کتب کمک آموزشی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="#" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>گنجینه تست</p>
+                    <p>ارتباط با دانش آموز</p>
                   </a>
                 </li>
               </ul>
             </li>
-            
 
             <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
@@ -278,18 +253,12 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <li class="nav-item">
                   <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
-                    <p>ویرایش مدارک ارسالی</p>
-                  </a>
-                </li>
-                <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
-                    <i class="fa fa-circle-o nav-icon"></i>
                     <p>تغییر نام کاربری و رمز عبور</p>
                   </a>
                 </li>
               </ul>
             </li>
-
+            
           </ul>
         </nav>
         <!-- /.sidebar-menu -->
