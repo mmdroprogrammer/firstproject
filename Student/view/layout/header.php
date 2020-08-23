@@ -151,7 +151,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <!-- Main Sidebar Container -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="index3.html" class="brand-link">
+    <a href="" class="brand-link">
       <img src="../public/Admin/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
       <span class="brand-text font-weight-light">پنل دانش آموز</span>
@@ -208,14 +208,33 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </li>
               </ul>
             </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link">
-                <i class="nav-icon fa fa-th"></i>
+            
+            <li class="nav-item has-treeview ">
+              <a href="#" class="nav-link ">
+              <i class="fa fa-book" aria-hidden="true"></i>
                 <p>
-                  ثبت کلاس های متفرقه
+                  کلاس های متفرقه
+                  <i class="right fa fa-angle-left"></i>
                 </p>
               </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="index.php?c=class&a=addclass" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>ثبت کلاس های متفرقه</p>
+                  </a>
+                </li>
+              </ul>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="#" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>لیست کلاس های متفرقه</p>
+                  </a>
+                </li>
+              </ul>
             </li>
+
             <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
               <i class="fa fa-book" aria-hidden="true"></i>
