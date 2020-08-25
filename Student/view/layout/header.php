@@ -227,7 +227,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </ul>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="#" class="nav-link ">
+                  <a href="index.php?c=class&a=listclass" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>لیست کلاس های متفرقه</p>
                   </a>
