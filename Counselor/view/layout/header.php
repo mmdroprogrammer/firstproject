@@ -195,13 +195,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Addstudent" class="nav-link ">
+                  <a href="index.php?c=student&a=addstudent" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>ثبت نام</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
+                  <a href="index.php?c=curriculum&a=addcurriculum" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>برنامه ریزی</p>
                   </a>
@@ -213,7 +213,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Liststudent" class="nav-link">
+                  <a href="index.php?c=student&a=liststudent" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>لیست دانش آموزان</p>
                   </a>
@@ -268,12 +268,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </p>
               </a>
               <ul class="nav nav-treeview">
-                <li class="nav-item">
-                  <a href="#" class="nav-link ">
-                    <i class="fa fa-circle-o nav-icon"></i>
-                    <p>ثبت دانش آموز جدید</p>
-                  </a>
-                </li>
                 <li class="nav-item">
                   <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>

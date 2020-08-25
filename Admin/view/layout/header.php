@@ -183,6 +183,45 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </p>
               </a>
             </li>
+
+            <li class="nav-item has-treeview ">
+              <a href="#" class="nav-link ">
+                
+                <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+                <p>
+                  کتاب
+                  
+                  <i class="right fa fa-angle-left"></i>
+                </p>
+              </a>
+              <ul class="nav nav-treeview">
+                <li class="nav-item">
+                  <a href="index.php?c=book&a=bookgroup" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>تعریف گروه کتاب</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="index.php?c=book&a=bookadd" class="nav-link">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>تعریف کتاب</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="index.php?c=book&a=bookchapters" class="nav-link">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>تعریف فصول</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="index.php?c=book&a=booktopics" class="nav-link">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>مباحث کتاب</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
             <li class="nav-item has-treeview ">
               <a href="#" class="nav-link ">
                 
@@ -194,8 +233,26 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 </p>
               </a>
               <ul class="nav nav-treeview">
+              <li class="nav-item">
+                  <a href="index.php?c=student&a=addstudent" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>افزودن دانش آموز</p>
+                  </a>
+                </li>
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=ListStudent" class="nav-link ">
+                  <a href="#" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>افزودن  مشاور</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link ">
+                    <i class="fa fa-circle-o nav-icon"></i>
+                    <p>افزودن  پشتیبان</p>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="index.php?c=student&a=liststudent" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>لیست دانش آموزان</p>
                   </a>
@@ -258,13 +315,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </a>
               <ul class="nav nav-treeview">
                 <li class="nav-item">
-                  <a href="index.php?c=student&a=Addstudent" class="nav-link ">
+                  <a href="#" class="nav-link ">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>ویرایش اطلاعات تماس</p>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=curriculum&a=AddCurriculum" class="nav-link">
+                  <a href="#" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>تغییر نام کاربری و رمز عبور</p>
                   </a>

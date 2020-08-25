@@ -6,14 +6,14 @@
 
             <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5" dir="rtl">
                 <div class="form-group">
-                    <label for="">عنوان کلاس :</label>
+                    <label for="">روز کلاس :</label>
                     <input type="text" class="form-control" id="" placeholder="لطفا عنوان کلاس را وارد کنید">
                 </div>
             </div>
 
             <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5" dir="rtl">
                 <div class="form-group">
-                    <label for="">روزهای هفته :</label>
+                    <label for="">نام کلاس :</label>
                     <input type="text" class="form-control" id=""
                         placeholder="روز های هفته ">
                 </div>
@@ -24,7 +24,7 @@
 
             <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5" dir="rtl">
                 <div class="form-group">
-                    <label for="">تاریخ شروع :</label>
+                    <label for="">ساعت شروع :</label>
                     <input type="time" class="form-control" id="exampleInput3" >
                     <i class="icon_calendar"></i>
                 </div>
@@ -32,7 +32,7 @@
 
             <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5" dir="rtl">
                 <div class="form-group">
-                    <label for="">تاریخ پایان :</label>
+                    <label for="">ساعت پایان :</label>
                     <input type="time" class="form-control" id="" >
                 </div>
             </div>

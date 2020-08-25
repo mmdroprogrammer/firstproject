@@ -1,9 +1,9 @@
 <?php
 
 switch ($action) {
-    case 'AddStudent':
+    case 'addstudent':
         break;
-    case 'ListStudent':
+    case 'liststudent':
         break;
     default:
         # code...
