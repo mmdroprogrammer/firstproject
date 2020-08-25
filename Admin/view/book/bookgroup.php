@@ -13,7 +13,8 @@
 
         </div>
     </div>
-    <div class="col-md-12 text-center">
-        <button id="singlebutton" name="singlebutton" class="btn btn-primary" style="margin-bottom: 10px;">ثبت</button>
+    <div class="col-md-6 text-center">
+        <button id="singlebutton" name="singlebutton" class="btn btn-primary" style="margin-bottom: 10px;width:200px ;">
+        ثبت</button>
     </div>
 </form>

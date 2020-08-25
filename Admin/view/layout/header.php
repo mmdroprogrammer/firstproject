@@ -202,7 +202,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a href="index.php?c=book&a=bookadd" class="nav-link">
+                  <a href="index.php?c=book&a=addbook" class="nav-link">
                     <i class="fa fa-circle-o nav-icon"></i>
                     <p>تعریف کتاب</p>
                   </a>
